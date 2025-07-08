@@ -59,9 +59,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : shepard.rodgers
   lastfm           : # Username
-  linkedin         : # shepard rodgers
+  linkedin         : shepard rodgers
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,7 +74,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : shepardrodgers
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
