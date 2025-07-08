@@ -22,7 +22,7 @@ repository               : "ShepardRodgers/ShepardRodgers.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Headshot-PIT.png"
+  avatar           : "Headshot-PIT-NE.png"
   name             : "Shepard Rodgers"
   pronouns         : # example: "she/her"  
   bio              : "Focused on building safe, innovative, and community-centered implementations of AI."
