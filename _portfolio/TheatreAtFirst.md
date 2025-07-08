@@ -1,6 +1,6 @@
 ---
 title: "Theatre at First Inventory Web App"
-excerpt: "A full-stack inventory management system for a local non-profit theatre, developed alongside a 10-person agile development team. Work was organized under JumboCode's pro bono software development service. <br/><img src='/images/Theatre@First-LandingPage.png' style='max-width:400px; height:auto; margin-top:20px; margin-right:20px;'>"
+excerpt: "A full-stack inventory management system for a local non-profit theatre, developed alongside a 10-person agile development team. Work was organized under JumboCode's pro bono software development service. <br/><a href='https://github.com/JumboCode/theatre-at-first' target='_blank'><img src='/images/Theatre@First-LandingPage.png' style='max-width:500px; height:auto; margin-top:20px; margin-right:20px;'></a>"
 collection: portfolio
 ---
 
@@ -12,4 +12,4 @@ My experience working on this project was one of unfamiliar technologies, workfl
 
 In the final version, users are able to search for items by name, status, or tag. Various local theatre groups can use this inventory resource to rent out available items and communicate with one another. I was personally responsible for building an accessible and elegant front end alongside API endpoints to connect our database to our app.
 
-<img src='/images/Theatre@First-LandingPage.png' style='max-width:400px; height:auto; margin-top:20px; margin-right:20px;'>
+<a href='https://github.com/JumboCode/theatre-at-first' target='_blank'><img src='/images/Theatre@First-LandingPage.png' style='max-width:500px; height:auto; margin-top:20px; margin-right:20px;'></a>
