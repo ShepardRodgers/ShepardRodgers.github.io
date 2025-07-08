@@ -1,6 +1,6 @@
 ---
 title: "Theatre at First Inventory Web App"
-excerpt: "A full-stack inventory management system for a local non-profit theatre, developed alongside a 10-person agile development team.<br/><img src='/images/Theatre@First-LandingPage.png' style='max-width:400px; height:auto; margin-top:20px; margin-right:20px;'>"
+excerpt: "A full-stack inventory management system for a local non-profit theatre, developed alongside a 10-person agile development team. Work was organized under JumboCode's pro bono software development service. <br/><img src='/images/Theatre@First-LandingPage.png' style='max-width:400px; height:auto; margin-top:20px; margin-right:20px;'>"
 collection: portfolio
 ---
 
