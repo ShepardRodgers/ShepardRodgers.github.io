@@ -1,0 +1,22 @@
+---
+layout: archive
+title: "Organizations"
+permalink: /organizations/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.organizations %}
+  <article>
+    <h2>
+      {% if post.link %}
+        <a href="{{ post.link }}" target="_blank" rel="noopener">{{ post.title }}</a>
+      {% else %}
+        {{ post.title }}
+      {% endif %}
+    </h2>
+    {{ post.content | markdownify }}
+  </article>
+{% endfor %}
