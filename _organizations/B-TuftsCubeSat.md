@@ -4,7 +4,7 @@ link: "https://sedstufts.org/cubesat"
 collection: organizations
 ---
 
-Tufts CubeSat is a student-led team dedicated to building a [1U CubeSat](https://en.wikipedia.org/wiki/CubeSat#:~:text=Standard%20CubeSats%20are,launched%20to%20date.) (a small cube-shaped satellite) with a Machine Learning payload that will be responsible detecting and identifying space debris as it orbits Earth. My current role on the team is **computational co-lead**.
+Tufts CubeSat is a student-led team dedicated to building a [1U CubeSat](https://en.wikipedia.org/wiki/CubeSat#:~:text=Standard%20CubeSats%20are,launched%20to%20date.) (a small cube-shaped satellite) with a Machine Learning payload that will be responsible detecting and identifying space debris as it orbits Earth. My current role on the team is **Computational Co-Lead**.
 
 
 <details>
@@ -18,10 +18,27 @@ Tufts CubeSat is a student-led team dedicated to building a [1U CubeSat](https:/
 
 </details>
 
+
+<details>
+<summary><strong>SPACE RACCOON</strong></summary>
+
+<p>
+The name for our satellite is an admittedly complicated acronym that took months to dream up:<br><br>
+
+<b>S</b>ensor <b>P</b>ayload for <b>A</b>cute <b>C</b>lassification and <b>E</b>valuation of
+<b>R</b>esidual <b>A</b>stronomical <b>C</b>omponents and <b>C</b>olliding <b>O</b>bjects in <b>O</b>rbit <b>N</b>eighborhoods
+(SPACE RACCOON)
+</p>
+
+</details>
+
+
 <details>
 <summary><strong>Our CubeSat Launch</strong></summary>
 
+<p>
 We plan to launch our satellite through <a href="https://www.nasa.gov/kennedy/launch-services-program/cubesat-launch-initiative/">NASA's CubeSat Launch Initiative (CLSI)</a>. However, this is a competitive program, and we were required to write large report with nearly 100 pages discussing our plans for the satellite and how our mission aligns with NASA's core objectives. We are currently waiting to hear back about acceptance. If we don't get it this year, we'll simply take what we learned and reapply.
+</p>
 
 </details>
 

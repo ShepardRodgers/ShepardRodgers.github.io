@@ -4,7 +4,7 @@ link: "https://tuftsaisafety.com/"
 collection: organizations
 ---
 
-I am the first Technical Lead for [Tufts AI Safety](https://tuftsaisafety.com/), which was founded in Spring '25. We aim to address <a href="https://docs.google.com/document/d/1expp491qJx4wQShW64jBXJsaf1JyROVk9WS7cMqWJq0/edit?tab=t.0">real challenges</a> with AI systems, from algorithmic bias to alignment problems.
+I am the first **Technical Lead** for [Tufts AI Safety](https://tuftsaisafety.com/), which was founded in Spring '25. We aim to address <a href="https://docs.google.com/document/d/1expp491qJx4wQShW64jBXJsaf1JyROVk9WS7cMqWJq0/edit?tab=t.0">real challenges</a> with AI systems, from algorithmic bias to alignment problems.
 
 <details>
 <summary><strong>Our goals</strong></summary>
