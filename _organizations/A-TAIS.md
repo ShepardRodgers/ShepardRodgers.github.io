@@ -54,4 +54,4 @@ I am running our Tufts-specific <a href="https://www.arena.education/curriculum"
 
 </details>
 
-<img src='/images/Tufts AI Safety Group Logo.png' style='max-width:250px; height:auto; margin-top:20px; margin-right:20px;'>
+<img src='/images/Tufts AI Safety Group Logo Smaller.png' style='max-width:150px; height:auto; margin-top:20px; margin-right:20px;'>

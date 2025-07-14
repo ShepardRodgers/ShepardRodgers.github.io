@@ -35,3 +35,4 @@ One of the primary objectives of The Lantern is to design and publish a magazine
 
 </details>
 
+<img src='/images/TheLanternLogo2.png' style='max-width:450px; height:auto; margin-top:20px; margin-right:20px;'>

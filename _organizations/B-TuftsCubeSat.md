@@ -42,4 +42,4 @@ We plan to launch our satellite through <a href="https://www.nasa.gov/kennedy/la
 
 </details>
 
-<img src='/images/CubeSat.png' style='max-width:300px; height:auto; margin-top:20px; margin-right:20px;'>
+<img src='/images/CubeSat.png' style='max-width:170px; height:auto; margin-top:20px; margin-right:20px;'>
