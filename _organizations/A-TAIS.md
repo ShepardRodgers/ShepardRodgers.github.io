@@ -1,13 +1,15 @@
 ---
-title: "Tufts AI Safety Group"
+title: "Tufts AI Safety Student Association"
 link: "https://tuftsaisafety.com/"
 collection: organizations
 ---
 
-I am the first **Technical Lead** for [Tufts AI Safety](https://tuftsaisafety.com/), which was founded in Spring '25. We aim to address <a href="https://docs.google.com/document/d/1expp491qJx4wQShW64jBXJsaf1JyROVk9WS7cMqWJq0/edit?tab=t.0">real challenges</a> with AI systems, from algorithmic bias to alignment problems.
+<img src='/images/Logo_White.png' style='max-width:300px; height:auto; margin-top:20px; margin-right:20px;'>
+
+I am the first **Technical Director** for [Tufts AI Safety Student Association (TASSA)](https://tuftsaisafety.com/), which was founded in Spring '25. We aim to address risks and harms emerging from the development and applications of advanced AI systems, from algorithmic bias to alignment. In my role, I help set directions/priorities for the organization and guide the development and facilitation of our <a href="https://docs.google.com/document/d/1aosV1o1Hbp7PFR7p0BISfiREZ_vFn4u3g56AqfseVVc/edit?usp=sharing">technical fellowships</a>. 
 
 <details>
-<summary><strong>Our goals</strong></summary>
+<summary><strong>Our Goals</strong></summary>
 
 <ul>
   <li>Creating a space for discussion of the risks posed by advanced artificial intelligence, including technical and policy aspects.</li>
@@ -30,15 +32,13 @@ I am the first **Technical Lead** for [Tufts AI Safety](https://tuftsaisafety.co
 </details>
 
 <details>
-<summary><strong>What we offer</strong></summary>
+<summary><strong>What we Offer</strong></summary>
 
 <ul>
-  <li>Weekly reading group exploring key ideas in AI Safety (no technical background required)</li>
-  <li><a href="https://www.arena.education/curriculum">ARENA workshops</a> for students to develop skills and confidence to contribute to technical AI safety (little technical background required)</li>
+  <li>Weekly technical and policy reading groups exploring key ideas in AI Safety</li>
   <li>Regular workshops and talks from experts in the field</li>
   <li>Direct access to Tufts professors doing related research</li>
-  <li>Opportunity to build and present risk demonstrations to stakeholders, policymakers, and elected leaders through the <a href="https://www.centeraipolicy.org/policy-advocacy-network">Policy Advocacy Network</a> in collaboration with the <a href="https://www.arena.education/curriculum">Center for AI Policy</a></li>
-  <li>Weekend project sprints with real-world impact</li>
+  <li>Weekend project sprints with real-world impact in policy drafting and technical research</li>
   <li>Career guidance and networking opportunities</li>
   <li>Resources for exploring AI Safety career paths</li>
 </ul>
@@ -46,12 +46,20 @@ I am the first **Technical Lead** for [Tufts AI Safety](https://tuftsaisafety.co
 </details>
 
 <details>
-<summary><strong>About ARENA</strong></summary>
+<summary><strong>About the Technical Fellowship</strong></summary>
 
 <p>
-I am running our Tufts-specific <a href="https://www.arena.education/curriculum">ARENA workshops</a>, which include topics like transformer basics, reinforcement learning, and LLM evals. We are running our first iteration during the Fall '25 semester, and to prepare we have been in contact with leaders from AI Safety organizations across the Boston area. It is also important to have facilitators, including myself, that can guide students through the ARENA material, so we have invested time to learn the curriculum ourselves.
+I run our <a href="https://docs.google.com/document/d/1aosV1o1Hbp7PFR7p0BISfiREZ_vFn4u3g56AqfseVVc/edit?usp=sharing">technical AI safety fellowships</a>, which involve meeting weekly to discuss topics like transformer basics, reinforcement learning, model red teaming, and technical governance techniques. We ran our first iteration during the Fall '25 semester with a cohort of 12, and due to high demand, decided to expand the fellowship going forward.
 </p>
 
 </details>
 
-<img src='/images/Tufts AI Safety Group Logo Smaller.png' style='max-width:150px; height:auto; margin-top:20px; margin-right:20px;'>
+
+<details>
+<summary><strong>Pathfinder Fellowship</strong></summary>
+
+<p>
+My work is supported by funding and mentorship from <a href="https://pathfinder.kairos-project.org/">Kairos's Pathfinder Fellowship</a>, which has helped me build leadership skills in AI Safety and Ethics, and has given me the resources I need to make meaningful progress on these difficult problems through TASSA.
+</p>
+
+</details>
