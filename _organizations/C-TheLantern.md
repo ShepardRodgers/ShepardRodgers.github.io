@@ -4,7 +4,7 @@ link: "https://the-lantern.vercel.app/"
 collection: organizations
 ---
 
-<img src='/images/TheLanternLogo2.png' style='max-width:320px; height:auto; margin-top:20px; margin-right:20px;'>
+<img src='/images/TheLanternLogo2.png' style='max-width:350px; height:auto; margin-top:20px; margin-right:20px;'>
 
 The Lantern is a student-run, interdisciplinary think tank that investigates the social impact of science and technology to advocate for responsible innovation. As an [STS-focused organization](https://the-lantern.vercel.app/Resources#:~:text=What%20is%20the%20STS%20Department%3F), The Lantern is in line with both my academic and professional interests, and I am currently a **member of the Executive Board**.
 

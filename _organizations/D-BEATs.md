@@ -4,7 +4,7 @@ link: "https://youtu.be/3nhnJPwA8YY?si=Anj5uDM-v-YRPQhh"
 collection: organizations
 ---
 
-<img src='/images/bucket.png' style='max-width:200px; height:auto; margin-top:20px; margin-right:20px;'><img src='/images/waterjug.png' style='max-width:100px; height:auto; margin-top:20px; margin-right:20px;'>
+<img src='/images/bucket.png' style='max-width:150px; height:auto; margin-top:20px; margin-right:20px;'><img src='/images/waterjug.png' style='max-width:100px; height:auto; margin-top:20px; margin-right:20px;'>
 
 
 Every Wednesday night in an otherwise-empty basement on the Tufts University campus, a group of students gathers with assorted garbage––buckets, water jugs, trash cans, street signs––to create rhythmic masterpieces. This group is BEATs, Tufts’ oldest and only all-gender street percussion ensemble. I joined in my first semester at Tufts, and by my Sophomore year I had become the **BEATs President**, a.k.a "Prez". This was a 1-year position, and one of my first leadership opportunities at Tufts.
