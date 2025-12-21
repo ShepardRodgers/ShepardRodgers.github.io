@@ -4,6 +4,8 @@ link: "https://sedstufts.org/cubesat"
 collection: organizations
 ---
 
+<img src='/images/CubeSat.png' style='max-width:170px; height:auto; margin-top:20px; margin-right:20px;'>
+
 Tufts CubeSat is a student-led team dedicated to building a [1U CubeSat](https://en.wikipedia.org/wiki/CubeSat#:~:text=Standard%20CubeSats%20are,launched%20to%20date.) (a small cube-shaped satellite) with a Machine Learning payload that will be responsible detecting and identifying space debris as it orbits Earth. My current role on the team is **Computational Co-Lead**.
 
 
@@ -41,5 +43,3 @@ We plan to launch our satellite through <a href="https://www.nasa.gov/kennedy/la
 </p>
 
 </details>
-
-<img src='/images/CubeSat.png' style='max-width:170px; height:auto; margin-top:20px; margin-right:20px;'>
